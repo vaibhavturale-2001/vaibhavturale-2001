@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vaibhav Turale
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 serching for a Job ...
+- 📫 Looking for a Job opportunity
+- <h1> Welcome to the profile of Vaibhav Turale  </h1>
 
 <!---
 vaibhavturale-2001/vaibhavturale-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
